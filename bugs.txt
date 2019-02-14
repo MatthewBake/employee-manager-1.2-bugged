@@ -1,0 +1,2 @@
+When saving information in any field, the are many dashes that are added into the name, which prevents the field from saving.
+When navigating between employee names, dashes are added to the previous employee name.
